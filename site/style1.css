@@ -1,0 +1,19 @@
+p
+{
+	background-color: gray;
+	font-size: 130%;
+	color: white;
+}
+<section>
+	We can link to a file in the same directory as this HTML foile link this:
+	<a href="https://www.linkedin.com/in/akanksha-wagh-9019571aa/" title="My linkedin page" target="_blank"> Linkedin Profile</a>
+	<a href="strc lect 01.html" title="same dir link">
+		<div>DIV Linkig to a file in the same directory</div>
+	</a>
+</section>
+<footer>
+<p>Akanksha Wagh</p>
+	<hr>
+<p style="text-align: center;"
+    onclick="alert('Emailing us is useless');">Tech Support: yeah.right@server-is-down.com</p>
+</footer>
